@@ -1,0 +1,24 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+conference-name: "BetterSoftware"
+conference-title: "Green Software"
+conference-motto: "The most eclectic conference about software industry"
+city: "Bologna"
+date: "Oct 11"
+year: 2024
+tickets: false
+tickets-eb: //eventbrite.com/tickets-external?eid=49969466018&ref=etckt
+tickets-eb-link: http://kerning-2019.eventbrite.com
+tickets-eb-height: 950px
+speakers: false
+talks: false
+workshops: false
+schedule: false
+cfs: true
+rdiscount:
+  extensions: [smart]
+plugins:
+  - jekyll-sitemap
+kramdown:
+  input: GFM

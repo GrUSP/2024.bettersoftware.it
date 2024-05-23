@@ -1,0 +1,100 @@
+<div class="section" id="sp"><a id="sponsor"></a>
+		<div class="wrapper">
+			<h2>Sponsors</h2>
+
+			<h3 class="greatprimer">Great Primer</h3>
+			<div class="s-block great">
+
+                {% for sponsor in site.data.sponsors.greatprimer %}
+
+				<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}"></a>
+
+                {% endfor %}
+
+                {% assign greatprimer = site.data.sponsors.greatprimer | size %}
+                {% if site.cfs and greatprimer < 1 %}
+				<img src="//2017.kerning.it/img/great-plc.png" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="This space is awaiting you!">
+                {% endif %}
+			</div>
+
+			<h3 class="pica">Pica</h3>
+			<div class="s-block pica">
+
+                {% for sponsor in site.data.sponsors.pica %}
+
+				<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
+
+                {% endfor %}
+
+
+                {% if site.cfs %}
+				<img src="//2017.kerning.it/img/pica-plc.png" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="This space is awaiting you!">
+                {% endif %}
+			</div>
+
+			<h3 class="bourgeois">Bourgeois</h3>
+			<div class="s-block bourgeois">
+
+				{% for sponsor in site.data.sponsors.bourgeois %}
+
+				<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
+
+                {% endfor %}
+
+                {% if site.cfs %}
+				<img src="//2017.kerning.it/img/bourgeois-plc.png" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="This space is awaiting you!">
+                {% endif %}
+
+			</div>
+
+            <h3 class="brevier">Brevier</h3>
+            <div class="s-block brevier">
+                {% for sponsor in site.data.sponsors.brevier %}
+
+				<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
+
+                {% endfor %}
+
+                {% if site.cfs %}
+				<img src="//2017.kerning.it/img/bourgeois-plc.png" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="This space is awaiting you!">
+                {% endif %}
+            </div>
+
+			<h3 class="minion">Minion</h3>
+			<div class="s-block minion">
+                {% for sponsor in site.data.sponsors.minion %}
+
+				<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
+
+                {% endfor %}
+
+                {% if site.cfs %}
+				<img src="//2019.kerning.it/img/minion-plc.png" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="This space is awaiting you!">
+                {% endif %}
+
+			</div>
+
+			<h3 class="media">Media Partners</h3>
+			<div class="s-block media">
+				<a href="http://fontfeed.com/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_fontfeed.png" alt="FontFeed"></a>
+				<a href="http://www.dxpertise.com/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_dxpertise.png" alt="dxpertise"></a>
+				<a href="http://www.tiragraffi.it/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_tiragraffi.png" alt="tiragraffi"></a>
+				<a href="http://www.apogeonline.com/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_apogeo.png" alt="Apogeo Editore: libri, ebook, news dal mondo dell'informatica e delle nuove tecnologie"></a>
+				<a href="https://www.fontshop.com/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_fontshop.png" alt="Not by chance. By design."></a>
+				<a href="https://www.typeparis.com/?utm_source=kerningconf"><img src="//2019.kerning.it/img/media_typeparis.png" alt="Type Paris."></a>
+				<a href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=AproposSrl"><img src="//grusp.org/img/media-partners/stickermule.svg" alt="StickerMule"></a>
+				{% for sponsor in site.data.sponsors.media %}
+					<a href="{{ sponsor.href }}?utm_source=kerningconf"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
+				{% endfor %}
+			</div>
+			<h3 class="media">Patronage</h3>
+			<div class="s-block media">
+                <a href="http://www.grusp.it"><img src="//2019.kerning.it/img/media-grusp-white.png" alt="GrUSP"></a>
+			</div>
+
+			<div class="become-sponsor">
+				<span>Interested in sponsoring next Kerning?</span><br>
+				<a href="/KE_SponsorPack.pdf">Download our sponsor pack</a>, then <a href="mailto:info@kerning.it?subject=Sponsorship">contact us!</a>
+			</div>
+		</div>
+	</div>

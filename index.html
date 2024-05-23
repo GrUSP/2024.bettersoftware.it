@@ -1,0 +1,24 @@
+---
+layout: layout
+title: home
+ttl:
+---
+
+{% include section-content.html %}
+{% include section-newsletter.html %}
+
+{% if site.speakers %}
+    {% include section-home-speakers.html %}
+{% endif %}
+
+{% if site.workshops %}
+    {% include section-home-workshops.html %}
+{% endif %}
+
+{% if site.tickets %}
+  {% include section-tickets.html %}
+{% endif %}
+
+
+{% include section-sponsors.html %}
+{% include section-contact.html %}

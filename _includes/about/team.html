@@ -1,0 +1,17 @@
+{% for member in site.data.team %}
+<div class="session" id="{{ member.alias }}">
+	<div class="speaker">
+		<div class="image"><img src="{{ member.image }}"></div>
+		<div class="info">
+			<div class="name">{{ member.name }}</div>
+			<div class="twitter"><a href="http://www.twitter.com/{{ member.twitter }}/">@{{ member.twitter }}</a></div>
+			<div class="bio">
+                {{ member.bio }}
+            </div>
+            <div class="follow">
+                {{ member.follow }}
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
