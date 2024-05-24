@@ -4,6 +4,9 @@ permalink: /blog/:title
 conference-name: "BetterSoftware"
 conference-title: "Green Software"
 conference-motto: "The most eclectic conference about software industry"
+conference-domain: "bettersoftware.it"
+conference-email: bettersoftware@grusp.org
+conference-x: better_software
 city: "Bologna"
 date: "Oct 11"
 year: 2024

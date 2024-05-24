@@ -1,23 +1,7 @@
 greatprimer:
 pica:
-  - name: ideato
-    href: http://www.ideato.it/
-    img: /img/2018/s/ideato.svg
-    title: Ideato - we create software and develop strategies shaping our customers' ideas
-  - name: strada
-    href: http://www.stradaioli.com/
-    img: //2018.kerning.it/img/s-stradaioli.png
-    title: Stradaioli - Visual design and labels for your fine goods
-  - name: daltonmaag
-    href: http://www.daltonmaag.com
-    img: /img/2018/s/daltonmaag.svg
-    title: Behind Dalton Maag is an international team of 40 type designers, font developers, creative directors, software engineers and support staff, spanning 20 nationalities and speaking 12 languages.
 
 bourgeois:
-  - name: ilpiac
-    href: http://www.ilpiac.com
-    img: /img/2018/s/ilpiac.png
-    title: Maurizio Piacenza - I design visual communication things
 #  - name: klim
 #    href: http://klim.co.nz/?utm_source=kerningconf
 #    img: /img/2018/s/klim.svg
@@ -29,10 +13,6 @@ bourgeois:
 
 
 brevier:
-  - name: glyphs
-    href:  https://glyphsapp.com/
-    img: /img/2018/s/glyphs.png
-    title:  Create Stunning Fonts on Your Mac
 #  - name: zetafonts
 #    href:  https://www.zetafonts.com
 #    img: /img/2018/s/zetafonts.svg
@@ -43,37 +23,6 @@ minion:
 #    href:  https://affinity.serif.com/
 #    img: /img/2018/s/serif.svg
 #    title: Affinity is next-generation photo editing and graphic design for creative professionals on Mac, Windows and iOS. Free trials.
-  - name: cssday
-    href: http://www.cssday.it
-    img: /img/2018/s/cssday.svg
-    title: CSSDay l'unica conferenza italiana dedicata ai CSS
-  - name: schriftlabor
-    href: https://schriftlabor.at/
-    img: /img/2018/s/schriftlabor.png
-    title: Truly Special Fonts for Your Company
-  - name: sundayburo
-    href: http://www.sundayburo.com/
-    img: /img/2019/s/sb.svg
-    title: Sunday Büro - A typographic family business since 2014.
-  - name: rosetta
-    href: https://www.rosettatype.com
-    img: /img/2019/s/rosetta.svg
-    title: Rosetta Type
-  - name: adobe
-    img: /img/2019/s/adobe.svg
-    title: Adobe Fonts
-    href: https://fonts.adobe.com
 
 media:
-  - name: slanted
-    href: https://www.slanted.de
-    img: /img/2018/s/media-SLANTED.png
-    title: Slanted
-  - name: fuoridalfunnel
-    href: https://fuoridalfunnel.it
-    img: /img/2018/s/media-FuoridalFunnel.png
-    title: Fuori Dal Funnel
-  - name: tdk
-    href: https://thedesignkids.org
-    img: /img/2019/s/TDK.svg
-    title: The Design Kids
+
