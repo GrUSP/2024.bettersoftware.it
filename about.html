@@ -1,12 +1,16 @@
 ---
 layout: layout
-title: page-about
+title: home
 ttl: About us
 ---
 
+{% include section-header.html %}
 {% include section-aboutus.html %}
 
-{% include section-sponsors.html %}
+{% if site.sponsors %}
+  {% include section-sponsors.html %}
+{% endif %}
+
 {% include section-newsletter.html %}
 {% include section-contact.html %}
 

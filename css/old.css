@@ -221,18 +221,6 @@ h2 {
   margin: 0 0 30px 0;
   letter-spacing: 1px;
 }
-h6 {
-  color: #3658a7;
-  font-family: PlutoSansLight, sans-serif;
-  font-size: 1em;
-  line-height: 1.5em;
-  font-size: 51px;
-  text-transform: uppercase;
-  padding-bottom: 15px;
-  background: url('/img/filetto.png') bottom center no-repeat;
-  margin: 0 0 30px 0;
-  letter-spacing: 1px;
-}
 .wrapper {
   display: inline;
   float: left;
@@ -240,26 +228,6 @@ h6 {
   margin: 0 ;
   position: relative;
   padding: 0 15px;
-}
-.index-row {
-  display: flex;
-  font-size: 13px;
-}
-.index-column {
-  flex: 33.33%;
-  padding: 5px;
-  font-size: 13px;
-  text-align: center;
-}
-.team-row {
-  display: flex;
-  font-size: 13px;
-}
-.team-column {
-  flex: 20%;
-  padding: 5px;
-  font-size: 13px;
-  text-align: center;
 }
 #header {
   z-index: 20;
@@ -603,7 +571,7 @@ h6 {
   clear: both;
   margin: 0 auto;
   width: 168px;
-  height: 75px;
+  height: 156px;
   background: #f8f7f4;
 }
 #ribbon span {
@@ -716,65 +684,6 @@ h6 {
   line-height: 1.5em;
   text-align: left;
   text-transform: none;
-}
-#cfp {
-  padding: 30px 0 70px 0;
-  background-color: #efeeeb;
-}
-#cfp img {
-  width: 80%;
-}
-#cfp-abstract {
-  display: inline;
-  float: left;
-  width: 100%;
-  margin: 0 ;
-}
-#cfp-abstract .col {
-  display: inline;
-  float: left;
-  width: 100%;
-  margin: 0 ;
-  text-align: left;
-  font-size: 14px;
-}
-#cfp-abstract .intro {
-  display: inline;
-  float: left;
-  width: 100%;
-  margin: 0 ;
-  font-family: PlutoSansLight, serif;
-  font-weight: 100;
-  font-size: 1em;
-  line-height: 1.5em;
-  font-size: 21px;
-  color: #231f20;
-  padding: 0 0 30px 0;
-}
-#cfp-abstract .intro b {
-  font-family: PlutoSansBold, serif;
-  font-size: 1em;
-  line-height: 1.5em;
-}
-#cfp-abstract h3 {
-  font-family: PlutoSansBold, serif;
-  font-size: 1em;
-  line-height: 1.5em;
-  font-size: 18px;
-  margin: 0 0 20px 0;
-}
-#cfp-abstract h3 b {
-  font-family: PlutoSansBold, serif;
-  font-size: 1em;
-  line-height: 1.5em;
-}
-#cfp-abstract dl dt {
-  color: #3658a7;
-  font-size: 18px;
-  text-transform: uppercase;
-}
-#cfp-abstract dl dd {
-  margin-bottom: 20px;
 }
 #location {
   padding: 30px 0 70px 0;
@@ -1145,7 +1054,7 @@ h6 {
 }
 .session .speaker .bio {
   font-family: PlutoSansLight, sans-serif;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 1.5em;
   margin: 0 0 20px 0;
   text-align: justify;
@@ -1439,13 +1348,6 @@ h6 {
   }
   #venue-abstract .col:first-child img {
     width: 100%;
-  }
-  #cfp .wrapper {
-    display: inline;
-    float: left;
-    width: 83.33333333%;
-    margin: 0 ;
-    margin-left: 8.33333333%;
   }
   #stay .wrapper {
     display: inline;

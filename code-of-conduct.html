@@ -1,12 +1,15 @@
 ---
 layout: layout
-title: page-code-of-conduct
+title: home
 ttl: Code of Conduct
 ---
-
+{% include section-header.html %}
 {% include section-code.html %}
 
-{% include section-sponsors.html %}
+{% if site.sponsors %}
+  {% include section-sponsors.html %}
+{% endif %}
+
 {% include section-newsletter.html %}
 {% include section-contact.html %}
 

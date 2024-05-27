@@ -1,18 +1,19 @@
 {% assign not_announced_speakers = site.data.speakers | where:"name","tba" | size %}
 
-<div class="session">|
+<!--div class="session">|
 {% for speaker in site.data.speakers %}
     {% if speaker.title != false %}
         <a href="#{{ speaker.twitter }}" class="" style="font-size: 0.8em" title="{{ speaker.title }}">{{ speaker.name }}</a> |
     {% endif %}
 {% endfor %}
-</div>
+</div-->
 
 {% for speaker in site.data.speakers %}
 {% if speaker.twitter %}
 <div class="session" id="{{ speaker.twitter }}">
     <div class="speaker" {% if site.talks == false %} style="width:100%" {% endif %}>
         <div class="image"><img src="{{ speaker.image }}"></div>
+        <div>&nbsp;</div>
         <div class="info">
             <div class="name">{{ speaker.name }}</div>
             <div class="twitter"><a href="http://www.twitter.com/{{ speaker.twitter }}/">@{{ speaker.twitter }}</a></div>

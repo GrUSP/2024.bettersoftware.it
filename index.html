@@ -4,6 +4,12 @@ title: home
 ttl:
 ---
 
+{% include section-header.html %}
+
+{% if site.cfs %}
+    {% include section-CFP.html %}
+{% endif %}
+
 {% include section-content.html %}
 {% include section-newsletter.html %}
 
@@ -19,6 +25,8 @@ ttl:
   {% include section-tickets.html %}
 {% endif %}
 
+{% if site.sponsors %}
+  {% include section-sponsors.html %}
+{% endif %}
 
-{% include section-sponsors.html %}
 {% include section-contact.html %}

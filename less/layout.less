@@ -3,7 +3,6 @@
 @import 'MyFontsWebfontsKit.less';
 
 @white: rgb(255, 255, 255);
-
 @black: rgb(35,31,32);
 @brown: rgb(48,44,45);
 @beige: rgb(248,247,244);
@@ -122,11 +121,46 @@ h2 {
 	letter-spacing: 1px;
 }
 
+h6 {
+	color: @orange;
+	.sans-light();
+	font-size: 51px;
+	text-transform: uppercase;
+	padding-bottom: 15px;
+	background: url('/img/filetto.png') bottom center no-repeat;
+	margin: 0 0 30px 0;
+	letter-spacing: 1px;
+}
+
 .wrapper {
 	.wholecolumn(12);
 	position: relative;
 	padding: 0 15px;
 }
+
+.index-row {
+    display: flex;
+	font-size: 13px;
+  }
+  
+.index-column {
+    flex: 33.33%;
+    padding: 5px;
+	font-size: 13px;
+	text-align: center;
+  }
+
+.team-row {
+    display: flex;
+	font-size: 13px;
+  }
+  
+.team-column {
+    flex: 20.00%;
+    padding: 5px;
+	font-size: 13px;
+	text-align: center;
+  }  
 
 #header {
 	//display: none;
@@ -453,7 +487,7 @@ h2 {
 	clear: both;
 	margin: 0 auto;
 	width:168px;
-	height:156px;
+	height:75px;
 	background: @beige;
 
 	span {
@@ -544,6 +578,57 @@ h2 {
 
 	}
 
+}
+
+///////// C F P  ////////////////////////////////////
+
+#cfp {
+	padding: 30px 0 70px 0;
+	background-color: @stay;
+	img {
+		width: 80%;
+	}
+}
+
+#cfp-abstract {
+	.wholecolumn(12);
+
+	.col {
+		.wholecolumn(12);
+		text-align: left;
+		font-size: 14px;
+	}
+	.intro {
+		.wholecolumn(12);
+		.serif-light();
+
+		font-size: 21px;
+		color: @black;
+		padding: 0 0 30px 0;
+		b {
+			.serif-bold();
+		}
+
+	}
+	h3 {
+			.serif-bold();
+			font-size: 18px;
+			margin: 0 0 20px 0;
+			b {
+				.serif-bold();
+			}
+		}
+		dl {
+			dt {
+				color: @orange;
+				font-size: 18px;
+				text-transform: uppercase;
+
+			}
+			dd {
+				margin-bottom: 20px;
+			}
+		}
 }
 
 ///////// L O C A T I O N  ////////////////////////////////////
@@ -870,7 +955,7 @@ h2 {
 			vertical-align: middle;
 		}
 		.bio {
-			.sans-light(12px,1.5em);
+			.sans-light(18px,1.5em);
 			margin: 0 0 20px 0;
 		  	text-align: justify;
 		}
@@ -1154,6 +1239,14 @@ h2 {
 					width: 100%
 				}
 			}
+		}
+	}
+
+	#cfp {
+		.wrapper {
+			.wholecolumn(10);
+			.push(1);
+
 		}
 	}
 
