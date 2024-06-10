@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
 conference-name: "Better Software"
-conference-title: "Green Software"
+conference-title: "Green Software e Sustainable IT"
 conference-motto: "La conferenza più eclettica sul mondo IT!"
 conference-domain: "bettersoftware.it"
 conference-email: bettersoftware@grusp.org
@@ -21,6 +21,8 @@ schedule: false
 sponsor: false
 location-stay: false
 cfs: true
+cfs-end: "7 Settembre 2024"
+cfs-link: https://sessionize.com/bettersoftware-2024
 rdiscount:
   extensions: [smart]
 plugins:
