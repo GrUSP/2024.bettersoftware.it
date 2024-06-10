@@ -1,6 +1,9 @@
 greatprimer:
 pica:
-
+  - name: Daruma Consulting
+    href: http://www.darumahq.it/?utm_source=bsw
+    img: /img/2024/s/daruma.svg
+    title: "Sustainable IT e Green Software consulting."
 bourgeois:
 #  - name: klim
 #    href: http://klim.co.nz/?utm_source=kerningconf
