@@ -18,7 +18,7 @@ speakers: false
 talks: false
 workshops: false
 schedule: false
-sponsor: false
+sponsor: true
 location-stay: false
 cfs: true
 cfs-end: "7 Settembre 2024"
