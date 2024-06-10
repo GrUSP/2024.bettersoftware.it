@@ -10,9 +10,9 @@ conference-x: better_software
 city: "Bologna"
 date: "11 Ott"
 year: 2024
-tickets: false
-tickets-eb: //eventbrite.com/tickets-external?eid=49969466018&ref=etckt
-tickets-eb-link: http://kerning-2019.eventbrite.com
+tickets: true
+tickets-eb: grusp/bettersoftware-2024
+tickets-eb-link: http://ti.to/grusp/bettersoftware-2024
 tickets-eb-height: 950px
 speakers: false
 talks: false

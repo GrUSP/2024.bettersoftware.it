@@ -1,14 +1,12 @@
+<script src="https://js.tito.io/v2" async></script>
 <div class="section" id="tickets"><a id="tickets"></a>
 	<div class="wrapper">
 		<h2>Grab your ticket!</h2>
 		<p>We reserved a few <strong>special discounted tickets (79€) for students.</strong></p>
 		<p>If you are eligible, just <a href="mailto:{{ site.conference-email }}?subject=I'm a student">send us an email</a> with your ID and a proof you are really a student and we will send you a dedicated link to complete your purchase.</p>
-		<a id="eventbrite-link" href="{{ site.tickets-eb-link}}">Buy it now!</a>
-		<div id="eventbrite-iframe" style="width:100%; text-align:left; display: block; margin-bottom: 200px;" >
-
-            <iframe  src="{{ site.tickets-eb }}" frameborder="0" height="{{ site.tickets-eb-height }}" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-
-        </div>
+		<tito-widget
+     		 event="{{ site.tickets-eb }}"
+    	></tito-widget>
 	</div>
 </div>
 <br style="clear: both;">
