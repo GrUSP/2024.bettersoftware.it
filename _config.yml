@@ -20,7 +20,7 @@ workshops: false
 schedule: false
 sponsor: false
 location-stay: false
-cfs: false
+cfs: true
 rdiscount:
   extensions: [smart]
 plugins:

@@ -60,6 +60,11 @@
     		<a class="toggleMenu" href="#">Menu</a>
     		<div id="nav-primary">
     			<ul>
+                    {% if site.cfs %}
+                        <li><a href="https://sessionize.com/bettersoftware-2024" target="_blank">Call For Paper</a></li>
+                    {% endif %}
+
+
                     {% if site.speakers %}
                         <li><a href="speakers.html">Speaker</a></li>
                     {% endif %}
