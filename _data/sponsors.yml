@@ -28,7 +28,27 @@ minion:
 #    title: Affinity is next-generation photo editing and graphic design for creative professionals on Mac, Windows and iOS. Free trials.
 
 media:
+  - name: Codemotion
+    href: https://codemo.tech/partners
+    img: https://partners.grusp.org/img/partners/codemotion.png
+    title: "Codemotion"
+
+  - name: EventiTech_it
+    href: https://eventitech.it/
+    img: https://partners.grusp.org/img/partners/eventitech.svg
+    title: "EventiTech.it"
+
   - name: HTML_it
     href: https://www.html.it/
     img: /img/2024/s/media_htmlit.png
     title: "HTML.it"
+
+  - name: krazydev_
+    href: https://krazydev.it/
+    img: https://partners.grusp.org/img/partners/krazydev.svg
+    title: "krazydev Friuli Venezia Giulia"
+
+  - name: Product Management Day
+    href: https://www.productmanagementday.com/
+    img: https://partners.grusp.org/img/partners/productmanday.svg
+    title: "Product Management Day"
