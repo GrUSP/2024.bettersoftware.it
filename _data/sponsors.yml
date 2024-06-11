@@ -28,4 +28,7 @@ minion:
 #    title: Affinity is next-generation photo editing and graphic design for creative professionals on Mac, Windows and iOS. Free trials.
 
 media:
-
+  - name: HTML_it
+    href: https://www.html.it/
+    img: /img/2024/s/media_htmlit.png
+    title: "HTML.it"
