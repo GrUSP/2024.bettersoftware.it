@@ -17,6 +17,7 @@ tickets-eb-height: 950px
 speakers: false
 talks: false
 workshops: false
+scholarships: true
 schedule: false
 sponsor: true
 location-stay: false
