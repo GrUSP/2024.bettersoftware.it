@@ -117,7 +117,7 @@
 
 - name: Nicola Bonotto
   hour:
-  image: img/2024/nicola-bonotto.png
+  image: img/2024/nicola-bonotto.jpg
   id: speaker9
   bio: >
     'Co-fondatore dell'agenzia digitale Piano D, azienda B Corp specializzata nella realizzazione di siti web a basso impatto ambientale. Da sempre impegnato nella diffusione del tema della sostenibilità digitale in Italia, coopera con realtà nazionali e internazionali che condividono lo stesso obiettivo.'
@@ -161,7 +161,7 @@
 
 - name: Ilias Bartolini
   hour:
-  image: img/2024/ilias-bartolini.png
+  image: img/2024/ilias-bartolini.jpg
   id: speaker12
   bio: >
     Technical leader and "jack of all trades" with international experience in software products and architecture, in growing and enabling teams.
