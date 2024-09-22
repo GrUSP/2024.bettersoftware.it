@@ -158,3 +158,19 @@
     Adottare un approccio sostenibile è sia un dovere etico che un'opportunità per migliorare l'efficienza, supportare l'ecosistema e ridurre i costi. La sostenibilità non è solo un obiettivo, ma un viaggio che migliora tutto ciò che facciamo.
     Perché non si tratta solo di dove stiamo andando, ma di come ci arriviamo. Con le giuste scelte, il nostro viaggio può essere sostenibile, efficiente e rispettoso del pianeta.
   video: 
+
+- name: Ilias Bartolini
+  hour:
+  image: img/2024/ilias-bartolini.png
+  id: speaker12
+  bio: >
+    Technical leader and "jack of all trades" with international experience in software products and architecture, in growing and enabling teams.
+    Helping social businesses, nonprofits and organizations with social impact at the core of their mission tackling issues of climate, education, digital rights, and inclusion.
+  works: 'Engineering Manager @ ClimatePartner / Co-Founder @ Refresh Academy'
+  title: "Misurare le Emissioni dei Servizi Digitali (e non solo)"
+  abstract: >
+    Dove cominciare a stimare le emissioni di carbonio dei servizi digitali? E mi consigli di implementare le transazioni in Bitcoin? Ma quanto mi consuma questo chatbot?!
+    In questa sessione partiremo dalle basi di "carbon accounting" per dipanare tutti questi dubbi ed impareremo come vengono stimate le emissioni di carbonio di prodotti, servizi ed organizzazioni.
+    Ci concentreremo poi in particolare sui "servizi digitali" analizando i vantaggi e le carenze dei modelli attualmente in uso e vedremo quali strumenti sono disponibili per aiutarvi. 
+    Infine le applicheremo alla stima delle emissioni di un sito web d'esempio.
+  video: 
