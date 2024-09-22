@@ -14,14 +14,14 @@ tickets: true
 tickets-eb: grusp/bettersoftware-2024
 tickets-eb-link: http://ti.to/grusp/bettersoftware-2024
 tickets-eb-height: 950px
-speakers: false
+speakers: true
 talks: false
 workshops: false
 scholarships: true
 schedule: false
 sponsor: true
 location-stay: false
-cfs: true
+cfs: false
 cfs-end: "7 Settembre 2024"
 cfs-link: https://sessionize.com/bettersoftware-2024
 rdiscount:
