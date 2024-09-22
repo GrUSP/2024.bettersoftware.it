@@ -15,7 +15,7 @@ tickets-eb: grusp/bettersoftware-2024
 tickets-eb-link: http://ti.to/grusp/bettersoftware-2024
 tickets-eb-height: 950px
 speakers: true
-talks: false
+talks: true
 workshops: false
 scholarships: true
 schedule: false
