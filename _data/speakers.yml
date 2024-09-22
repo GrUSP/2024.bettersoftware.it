@@ -1,7 +1,7 @@
 - name: Antonio Baldassarra
   hour:
   image: img/2024/antoniob.jpg
-  twitter: 
+  id: speaker1
   bio: "CEO Seeweb"
   works: 
   title: Sustainable Digital
@@ -11,7 +11,7 @@
 - name: Jarre Pietro
   hour:
   image: img/2024/jarre-pietro.jpg
-  twitter: 
+  id: speaker2
   bio: "Civil engineer, PhD, former manager of multinational engineering companies, now promoter of the Sloweb Association and Digital Ethics forum, Pietro published its proceedings and gives lectures for corporations and at Politecnico di Torino on the themes of digital techs impact and policies"
   works: "you can follow him on <a href='http://www.sloweb.org/'>Sloweb</a>"
   title: Scope and targets of Corporate Digital Responsibility policies
@@ -23,7 +23,7 @@
 - name: Massimo Crubellati
   hour:
   image: img/2024/massimo-crubellati.jpg
-  twitter: 
+  id: speaker3
   bio: "Computer Science professional with extensive experience in applying Software Intelligence solutions to ICT governence use cases, from Sustainable ICT transformation, Cloud Journey and GreenOps implementation, Cyber Resiliency assurance and IT Supply Chain Management."
   works: "SVP & Country Manager @ CAST"
   title: "Software Sustainability in a regulated landscape"
@@ -34,7 +34,7 @@
 - name: Riccardo Marchiani
   hour:
   image: img/2024/riccardo-marchiani.jpg
-  twitter: 
+  id: speaker4
   bio: > 
    After graduating in Telecommunications Engineering in Florence in 2004 and after a brief experience in telco (3 Italia), I joined Autostrade per l’Italia in 2006, working in IT Operations. 
    In 2010, I worked for a subsidiary of the group on an international project in Paris for 5 years, dealing with process analysis, architecture, and integration issues. 
@@ -49,7 +49,7 @@
 - name: Noemi Pagliuca
   hour:
   image: img/2024/noemi-pagliuca.jpg
-  twitter: 
+  id: speaker5
   bio: > 
     Laureata in Economia Internazionale e con un Master in Sustainability Management, fin dall'inizio della sua carriera ha dimostrato un forte interesse per le tematiche relative a Sostenibilità ed Economia Circolare. 
     Le precedenti esperienze in ambito Retail e Manufacturing le hanno permesso di apprendere al meglio le dinamiche aziendali e le leve che spingono all’innovazione. 
@@ -66,7 +66,7 @@
 - name: Giulia Di Bella
   hour:
   image: img/2024/giulia-di-bella.jpg
-  twitter: 
+  id: speaker6
   bio: > 
     Laureata in Fisica della Materia, ha approfondito la sua conoscenza ed esperienza nell'ambito della ricerca in Fisica delle Nanostrutture e delle Superfici. 
     Spinta da una forte curiosità e passione verso i temi dell'innovazione scientifica e del suo impiego ai fini della salvaguardia ambientale, ha rivolto il suo interesse al settore aerospaziale, focalizzandosi sulle opportunità offerte dall’utilizzo dei satelliti per il monitoraggio terrestre. 
@@ -83,7 +83,7 @@
 - name: Luca Rosati
   hour:
   image: img/2024/luca-rosati.jpg
-  twitter: 
+  id: speaker7
   bio: >
     Luca Rosati è architetto dell’informazione e experience designer. Col suo lavoro semplifica l’interazione fra le persone e l’informazione per favorire orientamento, trovabilità e comprensibilità. 
     È tra i fondatori di Architecta, l’associazione italiana degli architetti dell’informazione, e autore di quattro libri sull’architettura dell’informazione. 
@@ -101,7 +101,7 @@
 - name: Letizia Sechi
   hour:
   image: img/2024/letizia-sechi.jpg
-  twitter: 
+  id: speaker8
   bio: >
     Letizia Sechi organizza parole e informazioni dal 2008. Ha lavorato a lungo in editoria; dal 2018 è freelance e collabora con enti, aziende, studi di design e chiunque abbia bisogno di lavorare su scrittura e linguaggio. 
     Tra i suoi clienti ci sono – o ci sono stati – Bompiani, Zanichelli, Designers Italia, Istituto degli Innocenti, Fifth Beat, UxUniversity e tanti altri.
@@ -118,7 +118,7 @@
 - name: Nicola Bonotto
   hour:
   image: img/2024/nicola-bonotto.png
-  twitter:
+  id: speaker9
   bio: >
     'Co-fondatore dell'agenzia digitale Piano D, azienda B Corp specializzata nella realizzazione di siti web a basso impatto ambientale. Da sempre impegnato nella diffusione del tema della sostenibilità digitale in Italia, coopera con realtà nazionali e internazionali che condividono lo stesso obiettivo.'
   works: Co-founder, head of sustainability, web developer @ Piano D
@@ -131,7 +131,7 @@
 - name: Roberto Vergallo
   hour:
   image: img/2024/roberto-vergallo.jpg
-  twitter: 
+  id: speaker10
   bio: >
     Roberto Vergallo è ingegnere informatico e ricercatore presso l'Università del Salento. I suoi attuali temi di ricerca includono l'utilizzo di tecnologie innovative come AI, IoT e DLT per migliorare la customer experience nel settore bancario. 
     E’ responsabile scientifico per la stessa università all’interno della Green Software Foundation. È socio fondatore di una spin-off nel settore fintech che ha ricevuto investimenti e premi nel settore. Nel 2013 è stato visiting researcher presso UCLA Los Angeles, CA. 
@@ -146,12 +146,10 @@
 - name: Michel Murabito
   hour:
   image: img/2024/michel-murabito.jpg
-  twitter: 
+  id: speaker11
   bio: >
-    Sandro Berra, after Classics studies, started as editor and designer of Italian literary magazines.
-    In 2001 he joined the staff of Tipoteca Italiana, a private museum devoted to letterpress printing in the small town of Cornuda in the Veneto region of Italy,
-    and today he is the general coordinator of the museum. He edited A story of character: ten years of Tipoteca Italiana (2006) and is co-editor
-    of the journal Tipoitalia.
+    I'm Michel Murabito, Mich to my friends! Born in 1986 in Turin with Sicilian roots, I now live in Milan. My journey in software began at 12, coding for fun. At 18, I started my first job as a software developer and have continuously sought new challenges to grow and learn.
+    Today, I'm a Developer Advocate at Mia-Platform and a Cloud Native Computing Foundation Ambassador, sharing my passion for cloud native technologies with a community of curious minds. Additionally, I founded the DevelopersLife community, which has over 800 members, where we discuss our profession and share experiences.
   works: 'CNCF Ambassador & Developer Advocate @Mia-Platform'
   title: "Sostenibilità e Cloud Native: strategie e strumenti per un futuro green"
   abstract: >
