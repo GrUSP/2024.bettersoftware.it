@@ -13,10 +13,11 @@
   image: img/2024/jarre-pietro.jpg
   twitter: 
   bio: "Civil engineer, PhD, former manager of multinational engineering companies, now promoter of the Sloweb Association and Digital Ethics forum, Pietro published its proceedings and gives lectures for corporations and at Politecnico di Torino on the themes of digital techs impact and policies"
-  works: you can follow him on <a href="http://www.sloweb.org/">Sloweb</a>
+  works: "you can follow him on <a href='http://www.sloweb.org/'>Sloweb</a>"
   title: Scope and targets of Corporate Digital Responsibility policies
   abstract: >
-    During last years in many Central Europe countries corporations started to look at their impact when using digital technologies: from purchasing / disposal of devices, to collecting the needed data to educate their stakeholders. The policies needed - under the umbrella name Corporate Digital Responsibility - are complementing the well established CSR and as such should be incorporated in exisiting organizational frameworks, activities and the like.
+    During last years in many Central Europe countries corporations started to look at their impact when using digital technologies: from purchasing / disposal of devices, to collecting the needed data to educate their stakeholders. 
+    The policies needed - under the umbrella name Corporate Digital Responsibility - are complementing the well established CSR and as such should be incorporated in exisiting organizational frameworks, activities and the like.
   video: 
   
 - name: Massimo Crubellati
@@ -34,7 +35,10 @@
   hour:
   image: img/2024/riccardo-marchiani.jpg
   twitter: 
-  bio: "After graduating in Telecommunications Engineering in Florence in 2004 and after a brief experience in telco (3 Italia), I joined Autostrade per l’Italia in 2006, working in IT Operations. In 2010, I worked for a subsidiary of the group on an international project in Paris for 5 years, dealing with process analysis, architecture, and integration issues. In 2015, I returned to Autostrade per l’Italia, where I took on the role of Head of IT Operations for 5 years, then Group’s IT Enterprise Architecture structure for 4 years and now I’m head of Agile, Digital Innovation and IT Group Excellence."
+  bio: > 
+   After graduating in Telecommunications Engineering in Florence in 2004 and after a brief experience in telco (3 Italia), I joined Autostrade per l’Italia in 2006, working in IT Operations. 
+   In 2010, I worked for a subsidiary of the group on an international project in Paris for 5 years, dealing with process analysis, architecture, and integration issues. 
+   In 2015, I returned to Autostrade per l’Italia, where I took on the role of Head of IT Operations for 5 years, then Group’s IT Enterprise Architecture structure for 4 years and now I’m head of Agile, Digital Innovation and IT Group Excellence.
   works: "Head of Agile, Digital Innovation and IT Group Excellence"
   title: "Software Sustainability in a regulated landscape"
   abstract: >
@@ -46,22 +50,34 @@
   hour:
   image: img/2024/noemi-pagliuca.jpg
   twitter: 
-  bio: "Laureata in Economia Internazionale e con un Master in Sustainability Management, fin dall'inizio della sua carriera ha dimostrato un forte interesse per le tematiche relative a Sostenibilità ed Economia Circolare. Le precedenti esperienze in ambito Retail e Manufacturing le hanno permesso di apprendere al meglio le dinamiche aziendali e le leve che spingono all’innovazione. Mentre il suo percorso professionale ha preso forma in contesti diversi, la motivazione a contribuire attivamente al cambiamento richiesto sia alle aziende che alla collettività, l’hanno portata a cercare un ambiente lavorativo che le permettesse di traguardare questa aspirazione. Oggi, nel ruolo di Sustainability & Green Tech Lead in NTT DATA, unisce la sua esperienza al suo impegno per trasformare le aziende in agenti positivi per il pianeta. La sua missione è quella di analizzare e implementare soluzioni tecnologiche che aiutino le imprese a raggiungere i loro obiettivi di sostenibilità, con un particolare focus sull’adozione dei principi dell’Economia Circolare."
-  works: NTT DATA, Innovation Lead in the Sustainability & Green Tech Team
+  bio: > 
+    Laureata in Economia Internazionale e con un Master in Sustainability Management, fin dall'inizio della sua carriera ha dimostrato un forte interesse per le tematiche relative a Sostenibilità ed Economia Circolare. 
+    Le precedenti esperienze in ambito Retail e Manufacturing le hanno permesso di apprendere al meglio le dinamiche aziendali e le leve che spingono all’innovazione. 
+    Mentre il suo percorso professionale ha preso forma in contesti diversi, la motivazione a contribuire attivamente al cambiamento richiesto sia alle aziende che alla collettività, l’hanno portata a cercare un ambiente lavorativo che le permettesse di traguardare questa aspirazione. 
+    Oggi, nel ruolo di Sustainability & Green Tech Lead in NTT DATA, unisce la sua esperienza al suo impegno per trasformare le aziende in agenti positivi per il pianeta. La sua missione è quella di analizzare e implementare soluzioni tecnologiche che aiutino le imprese a raggiungere i loro obiettivi di sostenibilità, con un particolare focus sull’adozione dei principi dell’Economia Circolare.
+  works: "NTT DATA, Innovation Lead in the Sustainability & Green Tech Team"
   title: "Smart Forestry: l'innovazione tecnologica al servizio della Natura."
   abstract: >
-   Il talk esplora come l'applicazione di tecnologie all'avanguardia, come l'intelligenza artificiale e le immagini satellitari, possa rivoluzionare la gestione delle foreste, rendendola più sostenibile e trasparente. Verranno presentate soluzioni innovative per il monitoraggio delle aree forestali, in grado di rilevare fenomeni di deforestazione e degrado, nonché di valutare la capacità degli alberi di assorbire e immagazzinare CO2. Inoltre, sarà discusso il ruolo di queste tecnologie nel supportare le aziende nel conformarsi alla EUDR - Normativa Europea Deforestation Free.
+   Il talk esplora come l'applicazione di tecnologie all'avanguardia, come l'intelligenza artificiale e le immagini satellitari, possa rivoluzionare la gestione delle foreste, rendendola più sostenibile e trasparente. 
+   Verranno presentate soluzioni innovative per il monitoraggio delle aree forestali, in grado di rilevare fenomeni di deforestazione e degrado, nonché di valutare la capacità degli alberi di assorbire e immagazzinare CO2. 
+   Inoltre, sarà discusso il ruolo di queste tecnologie nel supportare le aziende nel conformarsi alla EUDR - Normativa Europea Deforestation Free.
   video: 
 
 - name: Giulia Di Bella
   hour:
   image: img/2024/giulia-di-bella.jpg
   twitter: 
-  bio: "Laureata in Fisica della Materia, ha approfondito la sua conoscenza ed esperienza nell'ambito della ricerca in Fisica delle Nanostrutture e delle Superfici. Spinta da una forte curiosità e passione verso i temi dell'innovazione scientifica e del suo impiego ai fini della salvaguardia ambientale, ha rivolto il suo interesse al settore aerospaziale, focalizzandosi sulle opportunità offerte dall’utilizzo dei satelliti per il monitoraggio terrestre. Attualmente lavora come Data Scientist presso NTT Data, dove si dedica con entusiasmo allo sviluppo di soluzioni innovative di monitoraggio ambientale e strategie di carbon monitoring e offsetting basate sull’utilizzo di tecnologie avanzate quali monitoraggio satellitare e Intelligenza Artificiale. Il suo lavoro è guidato dalla convinzione che un utilizzo consapevole di queste tecnologie possa giocare un ruolo cruciale nella protezione e nella salvaguardia del nostro pianeta, contribuendo a mitigare gli effetti del cambiamento climatico e a preservare la natura."
-  works: Sustainability & Green Tech - Data Scientist @ NTT DATA
+  bio: > 
+    Laureata in Fisica della Materia, ha approfondito la sua conoscenza ed esperienza nell'ambito della ricerca in Fisica delle Nanostrutture e delle Superfici. 
+    Spinta da una forte curiosità e passione verso i temi dell'innovazione scientifica e del suo impiego ai fini della salvaguardia ambientale, ha rivolto il suo interesse al settore aerospaziale, focalizzandosi sulle opportunità offerte dall’utilizzo dei satelliti per il monitoraggio terrestre. 
+    Attualmente lavora come Data Scientist presso NTT Data, dove si dedica con entusiasmo allo sviluppo di soluzioni innovative di monitoraggio ambientale e strategie di carbon monitoring e offsetting basate sull’utilizzo di tecnologie avanzate quali monitoraggio satellitare e Intelligenza Artificiale. 
+    Il suo lavoro è guidato dalla convinzione che un utilizzo consapevole di queste tecnologie possa giocare un ruolo cruciale nella protezione e nella salvaguardia del nostro pianeta, contribuendo a mitigare gli effetti del cambiamento climatico e a preservare la natura.
+  works: "Sustainability & Green Tech - Data Scientist @ NTT DATA"
   title: "Smart Forestry: l'innovazione tecnologica al servizio della Natura."
   abstract: >
-   Il talk esplora come l'applicazione di tecnologie all'avanguardia, come l'intelligenza artificiale e le immagini satellitari, possa rivoluzionare la gestione delle foreste, rendendola più sostenibile e trasparente. Verranno presentate soluzioni innovative per il monitoraggio delle aree forestali, in grado di rilevare fenomeni di deforestazione e degrado, nonché di valutare la capacità degli alberi di assorbire e immagazzinare CO2. Inoltre, sarà discusso il ruolo di queste tecnologie nel supportare le aziende nel conformarsi alla EUDR - Normativa Europea Deforestation Free.
+   Il talk esplora come l'applicazione di tecnologie all'avanguardia, come l'intelligenza artificiale e le immagini satellitari, possa rivoluzionare la gestione delle foreste, rendendola più sostenibile e trasparente. 
+   Verranno presentate soluzioni innovative per il monitoraggio delle aree forestali, in grado di rilevare fenomeni di deforestazione e degrado, nonché di valutare la capacità degli alberi di assorbire e immagazzinare CO2. 
+   Inoltre, sarà discusso il ruolo di queste tecnologie nel supportare le aziende nel conformarsi alla EUDR - Normativa Europea Deforestation Free.
   video: 
   
 - name: Luca Rosati
@@ -69,10 +85,16 @@
   image: img/2024/luca-rosati.jpg
   twitter: 
   bio: >
-    Luca Rosati è architetto dell’informazione e experience designer. Col suo lavoro semplifica l’interazione fra le persone e l’informazione per favorire orientamento, trovabilità e comprensibilità. È tra i fondatori di Architecta, l’associazione italiana degli architetti dell’informazione, e autore di quattro libri sull’architettura dell’informazione. Ha partecipato al design della app di mobile banking di Intesa Sanpaolo, valutata da Forrester Research come migliore app mondiale di mobile banking 2022 e 2023.
-  title: La sostenibile leggerezza del linguaggio. Accessibilità linguistica e sostenibilità
+    Luca Rosati è architetto dell’informazione e experience designer. Col suo lavoro semplifica l’interazione fra le persone e l’informazione per favorire orientamento, trovabilità e comprensibilità. 
+    È tra i fondatori di Architecta, l’associazione italiana degli architetti dell’informazione, e autore di quattro libri sull’architettura dell’informazione. 
+    Ha partecipato al design della app di mobile banking di Intesa Sanpaolo, valutata da Forrester Research come migliore app mondiale di mobile banking 2022 e 2023.
+  title: "La sostenibile leggerezza del linguaggio. Accessibilità linguistica e sostenibilità"
   abstract: >
-    Il linguaggio è l’architettura che ci permette di costruire le strutture di senso in cui ci muoviamo. La chiarezza del linguaggio è fondamentale perché le persone si sentano incluse, riescano a orientarsi e a portare a termine le azioni. Eppure, quando si parla di accessibilità e progettazione, la dimensione del linguaggio è spesso assente. Un linguaggio chiaro non solo facilita la comprensione, ma contribuisce anche alla sostenibilità sia per la persona sia per l’organizzazione. Per la persona, riduce gli errori e lo spreco di risorse non solo cognitive: una procedura di checkout poco chiara può comportare una consegna errata e l’attivazione di ulteriori passaggi; dal lato dell’organizzazione, i problemi in un touchpoint (checkout nell’e-commerce) si ripercuotono su altri touchpoint (servizio clienti, email ecc.). Analizzeremo scenari e casi di studio per dimostrare come un linguaggio chiaro aumenti anche la sostenibilità.
+    Il linguaggio è l’architettura che ci permette di costruire le strutture di senso in cui ci muoviamo. 
+    La chiarezza del linguaggio è fondamentale perché le persone si sentano incluse, riescano a orientarsi e a portare a termine le azioni. 
+    Eppure, quando si parla di accessibilità e progettazione, la dimensione del linguaggio è spesso assente. Un linguaggio chiaro non solo facilita la comprensione, ma contribuisce anche alla sostenibilità sia per la persona sia per l’organizzazione. 
+    Per la persona, riduce gli errori e lo spreco di risorse non solo cognitive: una procedura di checkout poco chiara può comportare una consegna errata e l’attivazione di ulteriori passaggi; dal lato dell’organizzazione, i problemi in un touchpoint (checkout nell’e-commerce) si ripercuotono su altri touchpoint (servizio clienti, email ecc.). 
+    Analizzeremo scenari e casi di studio per dimostrare come un linguaggio chiaro aumenti anche la sostenibilità.
   works: Information Architect, freelance
   video: 
 
@@ -81,24 +103,30 @@
   image: img/2024/letizia-sechi.jpg
   twitter: 
   bio: >
-    Letizia Sechi organizza parole e informazioni dal 2008. Ha lavorato a lungo in editoria; dal 2018 è freelance e collabora con enti, aziende, studi di design e chiunque abbia bisogno di lavorare su scrittura e linguaggio. Tra i suoi clienti ci sono – o ci sono stati – Bompiani, Zanichelli, Designers Italia, Istituto degli Innocenti, Fifth Beat, UxUniversity e tanti altri.
-  title: La sostenibile leggerezza del linguaggio. Accessibilità linguistica e sostenibilità
+    Letizia Sechi organizza parole e informazioni dal 2008. Ha lavorato a lungo in editoria; dal 2018 è freelance e collabora con enti, aziende, studi di design e chiunque abbia bisogno di lavorare su scrittura e linguaggio. 
+    Tra i suoi clienti ci sono – o ci sono stati – Bompiani, Zanichelli, Designers Italia, Istituto degli Innocenti, Fifth Beat, UxUniversity e tanti altri.
+  title: "La sostenibile leggerezza del linguaggio. Accessibilità linguistica e sostenibilità"
   abstract: >
-    Il linguaggio è l’architettura che ci permette di costruire le strutture di senso in cui ci muoviamo. La chiarezza del linguaggio è fondamentale perché le persone si sentano incluse, riescano a orientarsi e a portare a termine le azioni. Eppure, quando si parla di accessibilità e progettazione, la dimensione del linguaggio è spesso assente. Un linguaggio chiaro non solo facilita la comprensione, ma contribuisce anche alla sostenibilità sia per la persona sia per l’organizzazione. Per la persona, riduce gli errori e lo spreco di risorse non solo cognitive: una procedura di checkout poco chiara può comportare una consegna errata e l’attivazione di ulteriori passaggi; dal lato dell’organizzazione, i problemi in un touchpoint (checkout nell’e-commerce) si ripercuotono su altri touchpoint (servizio clienti, email ecc.). Analizzeremo scenari e casi di studio per dimostrare come un linguaggio chiaro aumenti anche la sostenibilità.
+    Il linguaggio è l’architettura che ci permette di costruire le strutture di senso in cui ci muoviamo. 
+    La chiarezza del linguaggio è fondamentale perché le persone si sentano incluse, riescano a orientarsi e a portare a termine le azioni. 
+    Eppure, quando si parla di accessibilità e progettazione, la dimensione del linguaggio è spesso assente. Un linguaggio chiaro non solo facilita la comprensione, ma contribuisce anche alla sostenibilità sia per la persona sia per l’organizzazione. 
+    Per la persona, riduce gli errori e lo spreco di risorse non solo cognitive: una procedura di checkout poco chiara può comportare una consegna errata e l’attivazione di ulteriori passaggi; dal lato dell’organizzazione, i problemi in un touchpoint (checkout nell’e-commerce) si ripercuotono su altri touchpoint (servizio clienti, email ecc.). 
+    Analizzeremo scenari e casi di studio per dimostrare come un linguaggio chiaro aumenti anche la sostenibilità.
   works: Content Designer
   video: 
 
 - name: Nicola Bonotto
   hour:
-  image: img/2024/nicola-bonotto.jpg
-  twitter: 
+  image: img/2024/nicola-bonotto.png
+  twitter:
   bio: >
     'Co-fondatore dell'agenzia digitale Piano D, azienda B Corp specializzata nella realizzazione di siti web a basso impatto ambientale. Da sempre impegnato nella diffusione del tema della sostenibilità digitale in Italia, coopera con realtà nazionali e internazionali che condividono lo stesso obiettivo.'
   works: Co-founder, head of sustainability, web developer @ Piano D
   title: "Sustainable Web Design: princìpi e best practices"
   abstract: >
-    Il modo in cui progettiamo e sviluppiamo i siti web ha un impatto significativo non solo sulle persone, ma anche sull'ambiente. Il Sustainable Web Design è un approccio al design e allo sviluppo dei servizi web che tiene conto dell'impatto ambientale e sociale dei prodotti digitali durante la loro fase di progettazione e di realizzazione.
-  video: 
+    Il modo in cui progettiamo e sviluppiamo i siti web ha un impatto significativo non solo sulle persone, ma anche sull'ambiente. 
+    Il Sustainable Web Design è un approccio al design e allo sviluppo dei servizi web che tiene conto dell'impatto ambientale e sociale dei prodotti digitali durante la loro fase di progettazione e di realizzazione.
+  video:
   
 - name: Roberto Vergallo
   hour:
