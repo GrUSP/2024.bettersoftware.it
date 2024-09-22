@@ -9,14 +9,13 @@
 </div-->
 
 {% for speaker in site.data.speakers %}
-{% if speaker.twitter %}
-<div class="session" id="{{ speaker.twitter }}">
+{% if speaker.id %}
+<div class="session" id="{{ speaker.id }}">
     <div class="speaker" {% if site.talks == false %} style="width:100%" {% endif %}>
         <div class="image"><img src="{{ speaker.image }}"></div>
         <div>&nbsp;</div>
         <div class="info">
             <div class="name">{{ speaker.name }}</div>
-            <div class="twitter"><a href="http://www.twitter.com/{{ speaker.twitter }}/">@{{ speaker.twitter }}</a></div>
             <div class="bio">
                 {{ speaker.bio }}
             </div>
