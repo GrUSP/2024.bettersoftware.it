@@ -128,21 +128,6 @@
     Il Sustainable Web Design è un approccio al design e allo sviluppo dei servizi web che tiene conto dell'impatto ambientale e sociale dei prodotti digitali durante la loro fase di progettazione e di realizzazione.
   video:
   
-- name: Roberto Vergallo
-  hour:
-  image: img/2024/roberto-vergallo.jpg
-  id: speaker10
-  bio: >
-    Roberto Vergallo è ingegnere informatico e ricercatore presso l'Università del Salento. I suoi attuali temi di ricerca includono l'utilizzo di tecnologie innovative come AI, IoT e DLT per migliorare la customer experience nel settore bancario. 
-    E’ responsabile scientifico per la stessa università all’interno della Green Software Foundation. È socio fondatore di una spin-off nel settore fintech che ha ricevuto investimenti e premi nel settore. Nel 2013 è stato visiting researcher presso UCLA Los Angeles, CA. 
-    Attualmente è visiting researcher presso l’università TU Delft (Olanda) dove si sta occupando di green AI.
-  works: "Assistant Professor @ Università del Salento, Dipartimento di Ingegneria dell'Innovazione"
-  title: "Green AI: dalla misurazione all'azione"
-  abstract: >
-    L'intelligenza artificiale è responsabile di un quantitativo crescente di emissioni di CO2. Limitarne le emissioni su tutta la pipeline diventa imprescindibile per garantire un'adozione della tecnologia in linea con gli obiettivi di sostenibilità. 
-    In questa sessione si riportano alcune strategie carbon-aware di training dell'AI con alcuni risultati sperimentali: flexible start, pause&resume e follow the sun. Si riportano inoltre alcune tecniche promettenti per la minimizzazione dell'impatto ambientale dell'inferenza: compressione dei modelli mediante quantizzazione, pruning e model distillation.
-  video: 
-  
 - name: Michel Murabito
   hour:
   image: img/2024/michel-murabito.jpg
