@@ -76,7 +76,6 @@
 
 			<h3 class="media">Media Partners</h3>
 			<div class="s-block media">
-					<a href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=AproposSrl"><img src="//grusp.org/img/media-partners/stickermule.svg" alt="StickerMule"></a>
 				{% for sponsor in site.data.sponsors.media %}
 					<a href="{{ sponsor.href }}?utm_source=bsw"><img src="{{ sponsor.img }}" class="sponsor-tooltip" data-toggle="tooltip" data-placement="top" data-title="{{ sponsor.title }}" alt="{{ sponsor.title }}"></a>
 				{% endfor %}
