@@ -18,7 +18,7 @@ speakers: true
 talks: true
 workshops: false
 scholarships: true
-schedule: false
+schedule: true
 sponsor: true
 location-stay: false
 cfs: false
