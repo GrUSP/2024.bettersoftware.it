@@ -32,7 +32,12 @@ brevier:
 #    title:  Zetafonts a font foundry created by Francesco Canovaro, Cosimo Lorenzo Pancini and Debora Manetti.
 
 minion:
-  - name: Codemotion
+  - name: Miaplatform
+    href: https://mia-platform.eu/it/
+    img: /img/2024/s/miaplatform.png
+    title: "Mia-Platform"
+
+  - name: Stickermule
     href: https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=AproposSrl
     img: //grusp.org/img/media-partners/stickermule.svg
     title: "StickerMule"
