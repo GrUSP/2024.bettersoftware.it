@@ -2,7 +2,10 @@
   hour:
   image: img/2024/antoniob.jpg
   id: speaker1
-  bio: "CEO Seeweb"
+  bio: >
+    Electronic Engineer, Antonio Baldassarra is the Founder of Seeweb, the Italian cloud computing provider leader in the market of IaaS and cloud infrastructures for Artificial Intelligence and Machine Learning.
+    Antonio is also the CEO of Dominion Hosting Holding, an international group of companies quoted on the Stock Exchange of Milan and known for its commitment to sustainability and energy efficiency.
+    With his focus on topics related to new technologies, business and ethics, Antonio represents a point of reference in the field of artificial intelligence and its market implications.
   works: 
   title: Sustainable Digital
   abstract: >
