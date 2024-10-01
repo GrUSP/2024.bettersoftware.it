@@ -5,6 +5,11 @@ pica:
     img: /img/2024/s/daruma.svg
     title: "Sustainable IT e Green Software consulting."
 bourgeois:
+  - name: Credem
+    href: https://www.credem.it/
+    img: /img/2024/s/credem.svg
+    title: "Credem Banca"
+
 #  - name: klim
 #    href: http://klim.co.nz/?utm_source=kerningconf
 #    img: /img/2018/s/klim.svg
