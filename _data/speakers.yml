@@ -15,12 +15,12 @@
   hour:
   image: img/2024/jarre-pietro.jpg
   id: speaker2
-  bio: "Civil engineer, PhD, former manager of multinational engineering companies, now promoter of the Sloweb Association and Digital Ethics forum, Pietro published its proceedings and gives lectures for corporations and at Politecnico di Torino on the themes of digital techs impact and policies"
-  works: "you can follow him on <a href='http://www.sloweb.org/'>Sloweb</a>"
-  title: Scope and targets of Corporate Digital Responsibility policies
+  bio: "Ingegnere civile e dottore di ricerca, ha sviluppato e gestito società di ingegneria in tutto il mondo, specializzate in valutazione di impatto. Ora promuove la Associazione Sloweb e il Digital Ethics Forum www.digitalethicsforum.com di cui ha pubblicato per Loescher e Guerini Next gli atti. Ha insegnato impatto delle tecnologie digitali e politiche di gestione del digitale presso il Politecnico di Torino, per il Consorzio CSI Piemonte e altre aziende."
+  works: "<a href='http://www.sloweb.org/'>Sloweb</a>"
+  title: "Le politiche di gestione responsabile del digitale: ambito d’azione, obiettivi"
   abstract: >
-    During last years in many Central Europe countries corporations started to look at their impact when using digital technologies: from purchasing / disposal of devices, to collecting the needed data to educate their stakeholders. 
-    The policies needed - under the umbrella name Corporate Digital Responsibility - are complementing the well established CSR and as such should be incorporated in exisiting organizational frameworks, activities and the like.
+    Da un decennio circa in Europa Centrale diverse aziende hanno iniziato a riflettere e prendere iniziativa nei confronti dell’impatto delle tecnologie digitali: dalle modalità di acquisto dei device, alla raccolta responsabile dei dati e all’educazione digitali di ogni portatore di interesse. Le politiche in gioco (che vanno sotto il nome di Corporate Digital Responsibility, o CDR) complementano e affiancano quelle già più note di responsabilità sociale (CSR).
+    A nostro avviso si può e si dovrebbe incorporarle entro i sistemi organizzativi esistenti e collaudati, per non perdere tempo di fronte all’accelerazione della evoluzione del digitale.
   video: 
   
 - name: Massimo Crubellati
